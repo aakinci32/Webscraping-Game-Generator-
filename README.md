@@ -4,4 +4,4 @@ I created an NFL game generator app that uses a webscraping algorithm to pick an
 
 To Run the App: 
   -Use the file "matchGeneratorMain.py" 
-  NOTE: User must have requests, tkinter and BeautifulSoup4 installed from pip
+  NOTE: User must have requests, tkinter, lxml and BeautifulSoup4 installed from pip
